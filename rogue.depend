@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1713554311 source:c:\users\funny\onedrive\Документы\code\rogue\main.cpp
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1689180359 c:\pdcurses-master\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1689180359 c:\pdcurses-master (1)\pdcurses-master\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1713554311 source:c:\code\rogue\main.cpp
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1689180359 ..\..\..\..\..\..\pdcurses-master\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
